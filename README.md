@@ -1,6 +1,8 @@
 <h1>Speech Generator Executable</h1>
 
-A standalone executable of the GUI app that generates speech using OpenAI's GPT-3 API.
+<img width="559" alt="Screenshot 2023-02-26 at 10 44 19 PM" src="https://user-images.githubusercontent.com/90864132/221476421-9fd2c70e-8858-451f-a1cf-011b039b1309.png">
+
+An executable of the GUI app that generates speech using OpenAI's GPT-3 API.
 
 <h2>Requirements</h2>
 
