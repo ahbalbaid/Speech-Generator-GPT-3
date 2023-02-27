@@ -6,7 +6,7 @@ An executable of the GUI app that generates speech using OpenAI's GPT-3 API.
 
 <h2>Requirements</h2>
 
-Windows, macOS, or Linux operating system
+macOS operating system
 PyQt5 runtime libraries
 gTTS runtime libraries
 Usage
