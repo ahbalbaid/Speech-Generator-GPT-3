@@ -4,6 +4,9 @@
 ![Screenshot 2023-03-19 at 4 26 15 PM](https://user-images.githubusercontent.com/90864132/226210660-002a9d4d-8c89-45f9-80e8-9f248c8d0011.png)
 ![Screenshot 2023-03-19 at 4 41 35 PM](https://user-images.githubusercontent.com/90864132/226211425-fca41da0-3171-40c1-be2c-0ec02b319687.png)
 ![Screenshot 2023-03-19 at 4 53 11 PM](https://user-images.githubusercontent.com/90864132/226211991-8fe75df7-a27d-4061-8772-7cf4d422c19c.png)
+![Screenshot 2023-03-19 at 8 11 13 PM](https://user-images.githubusercontent.com/90864132/226223934-d4b3b7b6-7e29-4478-85b6-f2ccbb9fb9bb.png)
+![Screenshot 2023-03-19 at 8 12 35 PM](https://user-images.githubusercontent.com/90864132/226223964-a73babc1-00a1-446d-868a-0f2c1106ef27.png)
+
 
 
 An executable of the GUI app that generates speech using OpenAI's GPT-3 API.
